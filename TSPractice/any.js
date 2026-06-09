@@ -12,6 +12,6 @@ console.log(array);
 function add(a, b) {
     return a + b;
 }
-console.log(add("shilpa", "reddy"));
-console.log(add("shilpa", 10));
-console.log(add(10, 10));
+console.log(add("shilpa", "reddy")); //shilpareddy
+console.log(add("shilpa", 10)); //shilpa10
+console.log(add(10, 10)); //20
