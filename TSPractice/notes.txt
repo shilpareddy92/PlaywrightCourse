@@ -1,0 +1,14 @@
+TS is actually using JS internally
+TS is JS with types(string,boolean, float, int)
+what ever the code written in TS would be converted to JS 
+using TS compliler
+TS -> .JS -> executing with browser or node
+problem with JS:
+It is runtime language, it wont throw any error during 
+complie time, other side TS will give errors during run time
+TS compile time language have to use.Ts
+node -v v24.16.0
+npm -v 11.13.0 
+sudo npm install -g typescript
+tsc -v Version 6.0.3
+download ESLint
