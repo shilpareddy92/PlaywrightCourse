@@ -45,4 +45,5 @@ let d = 1;
 do {
     console.log(d);
     d++;
-} while (d >= 10);
+} while (d <= 10);
+//while(d>=10)
